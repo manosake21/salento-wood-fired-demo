@@ -1,11 +1,8 @@
-# Salento Wood Fired Street Food
+# Σαλέντο Wood Fired Street Food
 
-Website for Salento Wood Fired Street Food in Thessaloniki.
+Ιστοσελίδα για το Σαλέντο Wood Fired Street Food στη Θεσσαλονίκη.
 
-## Contact
-- Address: El. Venizelou 76, Thessaloniki 546 31, Greece
-- Phone: 231 023 0861
+## Στοιχεία επικοινωνίας
+- Διεύθυνση: Ελ. Βενιζέλου 76, Θεσσαλονίκη 546 31
+- Τηλέφωνο: 231 023 0861
 - Email: salento.skg@gmail.com
-
-## Website
-https://salento-wood-fired-demo.vercel.app
